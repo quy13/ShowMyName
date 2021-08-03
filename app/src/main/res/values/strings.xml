@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShowMyName</string>
+    <string name="hello_text">Hello from Java!</string>
+    <string name="hello_two">Hello, Quy!</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="hello_three">\"Hello, \"</string>
+    <string name="show_name">Show Name</string>
+    <string name="empty">Hello , Bond</string>
+</resources>
